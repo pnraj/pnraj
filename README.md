@@ -1,3 +1,4 @@
+[![Banner Image](https://t4.ftcdn.net/jpg/04/22/75/43/360_F_422754338_8mV1KgejRJEHF9cXSWsSbFbR5So6Bcm9.jpg)](https://natarajpalanivelportfolio.streamlit.app/)
 
 <!--
 **pnraj/pnraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
