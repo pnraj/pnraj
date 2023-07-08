@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ABOUT ME
-<p style='font-size: 22px;'>
-I am An Aspiring Data Engineer With <strong>Strong</strong> Problem-Solving Aptitude For Designing Efficient Data Pipelines, Optimize Query Performance and Create <strong>Robust</strong> Data Models. Driven by a passion for delivering <strong>high-quality</strong> data solutions, while learning new emerging trends and technologies in the field of data engineering. I am enthusiastic about leveraging my skills to contribute to the success of <strong>data-driven</strong> initiatives and make a <strong>meaningful</strong> impact. </p>
+<p style='font-size: 22px; text-align: justify; text-justify: inter-word;'>
+I am An Aspiring Data Engineer With <strong>Strong Problem-Solving</strong> Aptitude For Designing <strong>Efficient Data Pipelines</strong>, Optimize Query Performance and Create <strong>Robust Data Models.</strong> Driven by a passion for delivering <strong>high-quality data solutions</strong>, while learning new emerging trends and technologies in the field of data engineering. I am enthusiastic about leveraging my skills to contribute to the success of <strong>data-driven initiatives </strong> and make a <strong>meaningful impact.</strong> </p>
 <hr></hr>
 <h3 align="left">LANGUAGE AND TOOLS</h3>
 <p align="left"> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
