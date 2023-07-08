@@ -54,4 +54,4 @@ I am An Aspiring Data Engineer With <strong>Strong</strong> Problem-Solving Apti
    
 <hr></hr>
 <h3 align="left">Profile Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pnraj&show_icons=true&locale=en" alt="pnraj" width="420" height="320"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnraj&" alt="pnraj" width="450" height="450" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pnraj&show_icons=true&locale=en" alt="pnraj"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnraj&" alt="pnraj" width="450" height="450" /></p>
