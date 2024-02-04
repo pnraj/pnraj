@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pnraj/Twitter_scraping/assets/29162796/eb95ea4e-d753-4164-a63e-7ac42c07674a" alt="Project WorkFlow" width="960" height="420">
+  <img src="https://github.com/pnraj/pnraj/assets/29162796/caa8785b-ec78-469c-bb00-73a43420ab0f" alt="Project WorkFlow">
 </p>
 
 <!--
