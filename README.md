@@ -1,4 +1,6 @@
-[![Banner Image](https://t4.ftcdn.net/jpg/04/22/75/43/360_F_422754338_8mV1KgejRJEHF9cXSWsSbFbR5So6Bcm9.jpg)](https://natarajpalanivelportfolio.streamlit.app/)
+<p align="center">
+  <img src="https://github.com/pnraj/Twitter_scraping/assets/29162796/eb95ea4e-d753-4164-a63e-7ac42c07674a" alt="Project WorkFlow" width="990" height="590">
+</p>
 
 <!--
 **pnraj/pnraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
