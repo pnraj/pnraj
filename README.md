@@ -48,10 +48,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 <hr></hr>
-<h3 align="left">CERTIFICATION</h3>
 
-1. [Microsoft Certified Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/NatarajPalanivel-3700/DF6264D0E8285B6?sharingId=31B58FCDCABBCCA3)
-<hr></hr>
 <h3 align="left">PROJECTS</h3>
 
 1. [API TO RDS USING LAMBDA WITH SLACK ERROR MONITORING](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/API%20TO%20RDS%20USING%20LAMBDA%20WITH%20SLACK%20ERROR%20MONITORING)
