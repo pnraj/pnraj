@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p style='font-size: 22px; text-align: justify; text-justify: inter-word;'>
 <h3> <b> </bold>Hi there, I am Nataraj,</b> </h3>
-<li> <span style="color:green"> An Aspiring Data Scientist / Analyst </span>, With a mastery of <b> Python, SQL, Big Data, Visualization, and Cloud Infrastructure,</b> I help organization to decode the data intricacies to fuel strategic insights, driving transformative business growth.</li>
+<li> <span style="color:green"> An Aspiring Data Engineer / Analyst </span>, With a mastery of <b> Python, SQL, Big Data, Visualization, and Cloud Infrastructure,</b> I help organization to decode the data intricacies to fuel strategic insights, driving transformative business growth.</li>
 <li><b>A Microsoft Certified Data Engineer Associate</b> With Strong Problem-Solving Aptitude For <b> Designing Efficient Data Pipelines, Optimize Query Performance and Create Robust Data Models.</b>
 </li></p>
 <hr></hr>
