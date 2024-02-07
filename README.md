@@ -51,14 +51,18 @@ Here are some ideas to get you started:
 
 <h3 align="left">PROJECTS</h3>
 
-1. [API TO RDS USING LAMBDA WITH SLACK ERROR MONITORING](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/API%20TO%20RDS%20USING%20LAMBDA%20WITH%20SLACK%20ERROR%20MONITORING)
+1. <a href="https://github.com/pnraj/Customer_Churn_Analysis" target="_blank">CUSTOMER CHURN ANALYSIS & VISUALIZATION IN POWER BI</a>
 
-2. [SPARK-ENABLED EXTRACTION AND LOADING INTO AWS RDS](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/Spark-Enabled%20Extraction%20and%20Loading%20Into%20AWS%20RDS)
+2. [SUPERSTORE 2016 TO 2019 SALES ANALYSIS USING MICROSOFT POWER BI](https://github.com/pnraj/AZURE/tree/main/Sales%20Analysis%20Using%20Microsoft%20Power%20BI)
 
-3. [YouTube Data Harvesting and Warehousing](https://github.com/pnraj/Projects/tree/master/YouTube_Data_Harvesting_and_Warehousing)
+3. [API TO RDS USING LAMBDA WITH SLACK ERROR MONITORING](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/API%20TO%20RDS%20USING%20LAMBDA%20WITH%20SLACK%20ERROR%20MONITORING)
 
-4. [PhonePe Pulse Data Analysis 2018-2022](https://github.com/pnraj/Projects/tree/master/Phonephe_Pulse)
+4. [SPARK-ENABLED EXTRACTION AND LOADING INTO AWS RDS](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/Spark-Enabled%20Extraction%20and%20Loading%20Into%20AWS%20RDS)
 
-5. [Twitter Scraping](https://github.com/pnraj/Twitter_scraping)
+5. [YOUTUBE DATA HARVESTING AND VISUALIZATION](https://github.com/pnraj/Projects/tree/master/YouTube_Data_Harvesting_and_Warehousing)
+
+6. [2018-2022 PHONEPE PULSE DATA ANALYSIS AND VISUALIZATION](https://github.com/pnraj/Projects/tree/master/Phonephe_Pulse)
+
+7. [TWITTER SCRAPPING](https://github.com/pnraj/Twitter_scraping)
    
 <hr></hr>
