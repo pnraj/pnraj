@@ -24,45 +24,23 @@ Here are some ideas to get you started:
 
 
 <hr></hr>
-<h3 align="left">LANGUAGE AND TOOLS</h3>
-<p align="left"> <a href="https://azure.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" alt="Azure" width="80" height="40"/>
-    </a>
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="80" height="40"/>
-    </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="80" height="40"/>
-    </a>
-    <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="Databricks" width="80" height="40"/>
-    </a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" alt="Airflow" width="40" height="40"/>
-    </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-      <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vgay5hqdvszlmvud3hwu" alt="plotly" width="40" height="40" />
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.logo.wine/a/logo/Power_BI/Power_BI-Logo.wine.svg" alt="Power BI" width="40" height="40" />
-    </a>
-</p>
+
+### LANGUAGE AND TOOLS
+
+  - __Python:__ Pandas, Pyspark, Numpy, Matplotlib, Seaborn, Scikit-learn
+  - __SQL:__ Mysql, Psql
+  - __NoSQL:__ MongoDB
+  - __BI Tools:__ Power BI
+  - __Big Data:__ Spark, Hadoop
+  - __Cloud:__ AWS, Azure
+  - __Source Control:__ Git / Github
+
 <hr></hr>
 
-<h3 align="left">PROJECTS</h3>
+### PROJECTS
 
-1. <a href="https://github.com/pnraj/Customer_Churn_Analysis" target="_blank">CUSTOMER CHURN ANALYSIS & VISUALIZATION IN POWER BI</a>
-
-2. [SUPERSTORE 2016 TO 2019 SALES ANALYSIS USING MICROSOFT POWER BI](https://github.com/pnraj/AZURE/tree/main/Sales%20Analysis%20Using%20Microsoft%20Power%20BI)
-
-3. [API TO RDS USING LAMBDA WITH SLACK ERROR MONITORING](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/API%20TO%20RDS%20USING%20LAMBDA%20WITH%20SLACK%20ERROR%20MONITORING)
-
-4. [SPARK-ENABLED EXTRACTION AND LOADING INTO AWS RDS](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/Spark-Enabled%20Extraction%20and%20Loading%20Into%20AWS%20RDS)
-
-5. [YOUTUBE DATA HARVESTING AND VISUALIZATION](https://github.com/pnraj/Projects/tree/master/YouTube_Data_Harvesting_and_Warehousing)
-
-6. [2018-2022 PHONEPE PULSE DATA ANALYSIS AND VISUALIZATION](https://github.com/pnraj/Projects/tree/master/Phonephe_Pulse)
-
-7. [TWITTER SCRAPPING](https://github.com/pnraj/Twitter_scraping)
-   
-<hr></hr>
+|||
+|---------|----------|
+|[<img src="https://github.com/pnraj/Customer_Churn_Analysis/blob/main/Images/Subscription%20Service%20Churn.png" alt="Project WorkFlow" width="480" height="390">](https://github.com/pnraj/Customer_Churn_Analysis) <p align = "center"> __CUSTOMER CHURN ANALYSIS & VISUALIZATION IN POWER BI__</p>|[<img src="https://github.com/pnraj/AZURE/raw/main/Sales%20Analysis%20Using%20Microsoft%20Power%20BI/img/2016%20to%202019%20Sales%20Analysis.drawio.png" alt="Project WorkFlow" width="480" height="390">](https://github.com/pnraj/AZURE/edit/main/Sales%20Analysis%20Using%20Microsoft%20Power%20BI/readme.md) <p align = "center"> __SUPERSTORE 2016 TO 2019 SALES ANALYSIS__</p>|
+|[<img src="https://private-user-images.githubusercontent.com/29162796/250357984-fe89c91f-a1ab-46e9-b589-4e9ef1bafa5a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczMzQ1MjksIm5iZiI6MTcwNzMzNDIyOSwicGF0aCI6Ii8yOTE2Mjc5Ni8yNTAzNTc5ODQtZmU4OWM5MWYtYTFhYi00NmU5LWI1ODktNGU5ZWYxYmFmYTVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDE5MzAyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3YTE2MGI2ZjdlNzE2ODY3NDIwZWRlMmU1NTY5NTgxZGQ4N2QwMjY4Y2Q4OGFmMzIwNjFlYjJlMDEzNGVlM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Gl8yqlcoJNmELgSliehBoOul75Ivi0DCp-r9YislftY" width="590" height="390">](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/API%20TO%20RDS%20USING%20LAMBDA%20WITH%20SLACK%20ERROR%20MONITORING) <p align = "center"> __API TO RDS USING LAMBDA WITH SLACK ERROR MONITORING__</p>|[<img src="https://private-user-images.githubusercontent.com/29162796/250774800-f6e07a28-dce6-4fb2-8795-ddb8f46b16b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczMzQ2ODAsIm5iZiI6MTcwNzMzNDM4MCwicGF0aCI6Ii8yOTE2Mjc5Ni8yNTA3NzQ4MDAtZjZlMDdhMjgtZGNlNi00ZmIyLTg3OTUtZGRiOGY0NmIxNmI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDE5MzMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1Nzc5ZTc0MWM3YWY3ODA2ZTg3YzY2ODg1OTM2ZTUzMmNiZjIyNDAxNDJiMjNjODcxOWU5MDU1ZjQ3YWM2ZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ttW1dMvk5tL4CyOz339SmoCKcnhjc2rPejISXg3KYGk" width="590" height="390">](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/Spark-Enabled%20Extraction%20and%20Loading%20Into%20AWS%20RDS) <p align = "center"> __SPARK-ENABLED EXTRACTION AND LOADING INTO AWS RDS__</p>|
+|[<img src="https://private-user-images.githubusercontent.com/29162796/240976501-72ee83a0-501d-4fae-b474-bd42fb49e101.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczMzUyNDUsIm5iZiI6MTcwNzMzNDk0NSwicGF0aCI6Ii8yOTE2Mjc5Ni8yNDA5NzY1MDEtNzJlZTgzYTAtNTAxZC00ZmFlLWI0NzQtYmQ0MmZiNDllMTAxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDE5NDIyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlNDI5MDQzMTY1NDhhYWYzNGNmM2UxYjNlMmQ0MTFmNTI0MjI5MzdkYzYyYWI1NmMwZGRkZDJhZmNhYzdhYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.v8QUExD20wQ5jhq4KvOgtPdxF0is_9oGhZUiPVmEB-I" width="480" height="390">](https://github.com/pnraj/Projects/tree/master/YouTube_Data_Harvesting_and_Warehousing) <p align = "center"> __YOUTUBE DATA HARVESTING AND VISUALIZATION__</p>|[<img src="https://private-user-images.githubusercontent.com/29162796/238176055-b97ce7b9-634a-4612-bef7-77369b4a89c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczMzUzMjYsIm5iZiI6MTcwNzMzNTAyNiwicGF0aCI6Ii8yOTE2Mjc5Ni8yMzgxNzYwNTUtYjk3Y2U3YjktNjM0YS00NjEyLWJlZjctNzczNjliNGE4OWM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDE5NDM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkZWNmNDEyOTk1OGQyZTU4NmY5NDQwNTk1YzQyNjAzZDNhOTQ4ZDkzZTBkZDNkMWJmMzk5YTE3ZDQzZjYwMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QewOEKQSxlm3cCSdmG1DBMLz8a_riH06GVTpyv31M64" alt="Project WorkFlow" width="480" height="390">](https://github.com/pnraj/Projects/tree/master/Phonephe_Pulse) <p align = "center"> __2018-2022 PHONEPE PULSE DATA ANALYSIS AND VISUALIZATION__</p>|
