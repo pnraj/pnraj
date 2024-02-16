@@ -39,18 +39,19 @@ Here are some ideas to get you started:
 
 ### PROJECTS
 
-1. [CUSTOMER CHURN ANALYSIS & VISUALIZATION IN POWER BI](https://github.com/pnraj/Customer_Churn_Analysis)
+1.[Bitcoin Price Prediction Application](https://github.com/pnraj/Bitcoin-Price-Prediction-Application)
+2. [CUSTOMER CHURN ANALYSIS & VISUALIZATION IN POWER BI](https://github.com/pnraj/Customer_Churn_Analysis)
 
-2. [SUPERSTORE 2016 TO 2019 SALES ANALYSIS USING MICROSOFT POWER BI](https://github.com/pnraj/AZURE/tree/main/Sales%20Analysis%20Using%20Microsoft%20Power%20BI)
+3. [SUPERSTORE 2016 TO 2019 SALES ANALYSIS USING MICROSOFT POWER BI](https://github.com/pnraj/AZURE/tree/main/Sales%20Analysis%20Using%20Microsoft%20Power%20BI)
 
-3. [API TO RDS USING LAMBDA WITH SLACK ERROR MONITORING](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/API%20TO%20RDS%20USING%20LAMBDA%20WITH%20SLACK%20ERROR%20MONITORING)
+4. [API TO RDS USING LAMBDA WITH SLACK ERROR MONITORING](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/API%20TO%20RDS%20USING%20LAMBDA%20WITH%20SLACK%20ERROR%20MONITORING)
 
-4. [SPARK-ENABLED EXTRACTION AND LOADING INTO AWS RDS](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/Spark-Enabled%20Extraction%20and%20Loading%20Into%20AWS%20RDS)
+5. [SPARK-ENABLED EXTRACTION AND LOADING INTO AWS RDS](https://github.com/pnraj/Projects/tree/master/AWS%3A%20Bulk%20%26%20Near%20Real-Time%20Pipelines/Spark-Enabled%20Extraction%20and%20Loading%20Into%20AWS%20RDS)
 
-5. [YOUTUBE DATA HARVESTING AND VISUALIZATION](https://github.com/pnraj/Projects/tree/master/YouTube_Data_Harvesting_and_Warehousing)
+6. [YOUTUBE DATA HARVESTING AND VISUALIZATION](https://github.com/pnraj/Projects/tree/master/YouTube_Data_Harvesting_and_Warehousing)
 
-6. [2018-2022 PHONEPE PULSE DATA ANALYSIS AND VISUALIZATION](https://github.com/pnraj/Projects/tree/master/Phonephe_Pulse)
+7. [2018-2022 PHONEPE PULSE DATA ANALYSIS AND VISUALIZATION](https://github.com/pnraj/Projects/tree/master/Phonephe_Pulse)
 
-7. [TWITTER SCRAPPING](https://github.com/pnraj/Twitter_scraping)
+8. [TWITTER SCRAPPING](https://github.com/pnraj/Twitter_scraping)
    
 <hr></hr>
