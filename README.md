@@ -27,13 +27,14 @@ Here are some ideas to get you started:
 
 ### LANGUAGE AND TOOLS
 
-  - __Python:__ Pandas, Pyspark, Numpy, Matplotlib, Seaborn, Scikit-learn
+  - __Python:__ Pandas, Pyspark, Numpy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, Flask
   - __SQL:__ Mysql, Psql
   - __NoSQL:__ MongoDB
   - __BI Tools:__ Power BI
   - __Big Data:__ Spark, Hadoop
   - __Cloud:__ AWS, Azure
   - __Source Control:__ Git / Github
+  - __Continerazation:__ Docker
 
 <hr></hr>
 
