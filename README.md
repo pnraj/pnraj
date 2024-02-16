@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### PROJECTS
 
-1.[Bitcoin Price Prediction Application](https://github.com/pnraj/Bitcoin-Price-Prediction-Application)
+1. [BITCOIN PRICE PREDICTION APPLICATION](https://github.com/pnraj/Bitcoin-Price-Prediction-Application)
 
 2. [CUSTOMER CHURN ANALYSIS & VISUALIZATION IN POWER BI](https://github.com/pnraj/Customer_Churn_Analysis)
 
