@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ### PROJECTS
 
 1.[Bitcoin Price Prediction Application](https://github.com/pnraj/Bitcoin-Price-Prediction-Application)
+
 2. [CUSTOMER CHURN ANALYSIS & VISUALIZATION IN POWER BI](https://github.com/pnraj/Customer_Churn_Analysis)
 
 3. [SUPERSTORE 2016 TO 2019 SALES ANALYSIS USING MICROSOFT POWER BI](https://github.com/pnraj/AZURE/tree/main/Sales%20Analysis%20Using%20Microsoft%20Power%20BI)
